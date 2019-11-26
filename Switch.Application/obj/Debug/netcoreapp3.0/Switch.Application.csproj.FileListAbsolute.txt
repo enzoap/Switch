@@ -1,0 +1,7 @@
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/bin/Debug/netcoreapp3.0/Switch.Application.deps.json
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/bin/Debug/netcoreapp3.0/Switch.Application.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/bin/Debug/netcoreapp3.0/Switch.Application.pdb
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/obj/Debug/netcoreapp3.0/Switch.Application.AssemblyInfoInputs.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/obj/Debug/netcoreapp3.0/Switch.Application.AssemblyInfo.cs
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/obj/Debug/netcoreapp3.0/Switch.Application.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Application/obj/Debug/netcoreapp3.0/Switch.Application.pdb

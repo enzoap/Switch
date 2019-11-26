@@ -8,4 +8,10 @@
       <Compile Remove="Class1.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Interfaces\Repositories" />
+      <Folder Include="Interfaces\Services" />
+      <Folder Include="Services" />
+    </ItemGroup>
+
 </Project>

@@ -1,0 +1,8 @@
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/bin/Debug/netcoreapp3.0/Switch.Domain.deps.json
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/bin/Debug/netcoreapp3.0/Switch.Domain.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/bin/Debug/netcoreapp3.0/Switch.Domain.pdb
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/obj/Debug/netcoreapp3.0/Switch.Domain.csprojAssemblyReference.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/obj/Debug/netcoreapp3.0/Switch.Domain.AssemblyInfoInputs.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/obj/Debug/netcoreapp3.0/Switch.Domain.AssemblyInfo.cs
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/obj/Debug/netcoreapp3.0/Switch.Domain.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/obj/Debug/netcoreapp3.0/Switch.Domain.pdb

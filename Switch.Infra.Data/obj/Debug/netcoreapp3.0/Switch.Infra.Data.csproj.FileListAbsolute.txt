@@ -1,0 +1,13 @@
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Infra.Data.deps.json
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Infra.Data.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Infra.Data.pdb
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/Debug/netcoreapp3.0/Switch.Infra.Data.csprojAssemblyReference.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/Debug/netcoreapp3.0/Switch.Infra.Data.AssemblyInfoInputs.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/Debug/netcoreapp3.0/Switch.Infra.Data.AssemblyInfo.cs
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/Debug/netcoreapp3.0/Switch.Infra.Data.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/Debug/netcoreapp3.0/Switch.Infra.Data.pdb
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Domain.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Domain.pdb
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/Debug/netcoreapp3.0/Switch.Infra.Data.csproj.CopyComplete
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Infra.Data.runtimeconfig.json
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/bin/Debug/netcoreapp3.0/Switch.Infra.Data.runtimeconfig.dev.json

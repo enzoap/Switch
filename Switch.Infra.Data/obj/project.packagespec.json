@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/Switch.Domain.csproj": {
+            "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/Switch.Domain.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -26,17 +30,33 @@
   "frameworks": {
     "netcoreapp3.0": {
       "dependencies": {
+        "EntityFramework": {
+          "target": "Package",
+          "version": "[6.3.0, )"
+        },
         "EntityFrameworkCore.CommonTools": {
           "target": "Package",
           "version": "[2.0.2, )"
         },
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        },
         "Microsoft.EntityFrameworkCore.Proxies": {
           "target": "Package",
-          "version": "[2.1.4, )"
+          "version": "[3.0.1, )"
+        },
+        "Microsoft.Extensions.Configuration.FileExtensions": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[3.0.1, )"
         },
         "Pomelo.EntityFrameworkCore.MySql": {
           "target": "Package",
-          "version": "[2.1.2, )"
+          "version": "[3.0.0, )"
         }
       },
       "imports": [

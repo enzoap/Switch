@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/Switch.Infra.Data.csproj": {
+            "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/Switch.Infra.Data.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

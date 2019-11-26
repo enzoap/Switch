@@ -1,0 +1,8 @@
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/bin/Debug/netcoreapp3.0/Switch.Domain.Tests.deps.json
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/bin/Debug/netcoreapp3.0/Switch.Domain.Tests.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/bin/Debug/netcoreapp3.0/Switch.Domain.Tests.pdb
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/obj/Debug/netcoreapp3.0/Switch.Domain.Tests.csprojAssemblyReference.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/obj/Debug/netcoreapp3.0/Switch.Domain.Tests.AssemblyInfoInputs.cache
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/obj/Debug/netcoreapp3.0/Switch.Domain.Tests.AssemblyInfo.cs
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/obj/Debug/netcoreapp3.0/Switch.Domain.Tests.dll
+/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain.Tests/obj/Debug/netcoreapp3.0/Switch.Domain.Tests.pdb
