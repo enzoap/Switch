@@ -1,0 +1,50 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/enzoaugusto/RiderProjects/Switch/SwitchApp/SwitchApp.csproj",
+    "projectName": "SwitchApp",
+    "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/SwitchApp/SwitchApp.csproj",
+    "outputPath": "/Users/enzoaugusto/RiderProjects/Switch/SwitchApp/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/enzoaugusto/RiderProjects/Switch/Switch.CrossCutting.Logging/Switch.CrossCutting.Logging.csproj": {
+            "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.CrossCutting.Logging/Switch.CrossCutting.Logging.csproj"
+          },
+          "/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/Switch.Domain.csproj": {
+            "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.Domain/Switch.Domain.csproj"
+          },
+          "/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/Switch.Infra.Data.csproj": {
+            "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/Switch.Infra.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

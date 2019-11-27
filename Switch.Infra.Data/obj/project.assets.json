@@ -7068,8 +7068,7 @@
     ]
   },
   "packageFolders": {
-    "/Users/enzoaugusto/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/enzoaugusto/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7080,11 +7079,8 @@
       "packagesPath": "/Users/enzoaugusto/.nuget/packages/",
       "outputPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.Infra.Data/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/enzoaugusto/.nuget/NuGet/NuGet.Config"
+        "/Users/enzoaugusto/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -7148,13 +7144,7 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

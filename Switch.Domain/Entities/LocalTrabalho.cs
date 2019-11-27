@@ -6,6 +6,7 @@ namespace Switch.Domain.Entities
     {
         public int Id { get; set; }
         public int UsuarioId { get; set; }
+        public virtual Usuario Usuario { get; set; }
         public string Nome { get; set; }
         public DateTime DataAdmissao { get; set; }
         public DateTime? DataSaida { get; set; }

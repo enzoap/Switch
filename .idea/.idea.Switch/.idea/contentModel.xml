@@ -45,6 +45,18 @@
         </e>
         <e p="Switch.Application.csproj" t="IncludeRecursive" />
       </e>
+      <e p="Switch.CrossCutting.Logging" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Logger.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Switch.CrossCutting.Logging.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Switch.CrossCutting.Logging.csproj" t="IncludeRecursive" />
+      </e>
       <e p="Switch.Domain" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Entities" t="Include">
@@ -61,7 +73,7 @@
           <e p="UsuarioGrupo.cs" t="Include" />
         </e>
         <e p="Enums" t="Include">
-          <e p="Procurandonum.cs" t="Include" />
+          <e p="ProcurandoEnum.cs" t="Include" />
           <e p="SexoEnum.cs" t="Include" />
           <e p="StatusRelacionamento.cs" t="Include" />
           <e p="TipoDocumentoEnum.cs" t="Include" />
@@ -94,8 +106,12 @@
       <e p="Switch.Infra.Data" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Config" t="Include">
+          <e p="AmigoConfiguration.cs" t="Include" />
+          <e p="ComentarioConfiguration.cs" t="Include" />
           <e p="GrupoConfiguration.cs" t="Include" />
           <e p="PostagemConfiguration.cs" t="Include" />
+          <e p="ProcurandoPorConfiguration.cs" t="Include" />
+          <e p="StatusRelacionamentoConfiguration.cs" t="Include" />
           <e p="UsuarioConfiguration.cs" t="Include" />
           <e p="UsuarioGrupoConfiguration.cs" t="Include" />
         </e>
@@ -121,6 +137,8 @@
           <e p="20191127145242_UsuarioGrupo.Designer.cs" t="Include" />
           <e p="20191127145628_DbSets.cs" t="Include" />
           <e p="20191127145628_DbSets.Designer.cs" t="Include" />
+          <e p="20191127165527_NovasClasses.cs" t="Include" />
+          <e p="20191127165527_NovasClasses.Designer.cs" t="Include" />
           <e p="SwitchContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
@@ -134,6 +152,18 @@
         <e p="Switch.Infra.Data.csproj" t="IncludeRecursive" />
       </e>
       <e p="Switch.sln" t="IncludeFlat" />
+      <e p="SwitchApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="SwitchApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SwitchApp.csproj" t="IncludeRecursive" />
+      </e>
     </e>
   </component>
 </project>

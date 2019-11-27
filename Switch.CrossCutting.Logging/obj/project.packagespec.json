@@ -1,0 +1,46 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/enzoaugusto/RiderProjects/Switch/Switch.CrossCutting.Logging/Switch.CrossCutting.Logging.csproj",
+    "projectName": "Switch.CrossCutting.Logging",
+    "projectPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.CrossCutting.Logging/Switch.CrossCutting.Logging.csproj",
+    "outputPath": "/Users/enzoaugusto/RiderProjects/Switch/Switch.CrossCutting.Logging/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
