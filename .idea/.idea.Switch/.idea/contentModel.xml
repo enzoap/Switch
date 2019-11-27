@@ -48,15 +48,22 @@
       <e p="Switch.Domain" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Entities" t="Include">
+          <e p="Amigo.cs" t="Include" />
+          <e p="Comentario.cs" t="Include" />
           <e p="Grupo.cs" t="Include" />
           <e p="Identificacao.cs" t="Include" />
+          <e p="InstituicaoEnsino.cs" t="Include" />
+          <e p="LocalTrabalho.cs" t="Include" />
           <e p="Postagem.cs" t="Include" />
+          <e p="ProcurandoPor.cs" t="Include" />
           <e p="StatusRelacionamento.cs" t="Include" />
           <e p="Usuario.cs" t="Include" />
           <e p="UsuarioGrupo.cs" t="Include" />
         </e>
         <e p="Enums" t="Include">
+          <e p="Procurandonum.cs" t="Include" />
           <e p="SexoEnum.cs" t="Include" />
+          <e p="StatusRelacionamento.cs" t="Include" />
           <e p="TipoDocumentoEnum.cs" t="Include" />
         </e>
         <e p="Interfaces" t="Include">
@@ -112,6 +119,8 @@
           <e p="20191127142440_RelacionamentoPostagens.Designer.cs" t="Include" />
           <e p="20191127145242_UsuarioGrupo.cs" t="Include" />
           <e p="20191127145242_UsuarioGrupo.Designer.cs" t="Include" />
+          <e p="20191127145628_DbSets.cs" t="Include" />
+          <e p="20191127145628_DbSets.Designer.cs" t="Include" />
           <e p="SwitchContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
