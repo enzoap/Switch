@@ -48,10 +48,16 @@
       <e p="Switch.Domain" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Entities" t="Include">
+          <e p="Grupo.cs" t="Include" />
+          <e p="Identificacao.cs" t="Include" />
+          <e p="Postagem.cs" t="Include" />
+          <e p="StatusRelacionamento.cs" t="Include" />
           <e p="Usuario.cs" t="Include" />
+          <e p="UsuarioGrupo.cs" t="Include" />
         </e>
         <e p="Enums" t="Include">
           <e p="SexoEnum.cs" t="Include" />
+          <e p="TipoDocumentoEnum.cs" t="Include" />
         </e>
         <e p="Interfaces" t="Include">
           <e p="Repositories" t="Include" />
@@ -80,13 +86,32 @@
       </e>
       <e p="Switch.Infra.Data" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Config" t="Include" />
+        <e p="Config" t="Include">
+          <e p="GrupoConfiguration.cs" t="Include" />
+          <e p="PostagemConfiguration.cs" t="Include" />
+          <e p="UsuarioConfiguration.cs" t="Include" />
+          <e p="UsuarioGrupoConfiguration.cs" t="Include" />
+        </e>
         <e p="Context" t="Include">
           <e p="SwitchContext.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
           <e p="20191126182838_Inicial.cs" t="Include" />
           <e p="20191126182838_Inicial.Designer.cs" t="Include" />
+          <e p="20191126185835_AdicionandoUsuarioConfiguration.cs" t="Include" />
+          <e p="20191126185835_AdicionandoUsuarioConfiguration.Designer.cs" t="Include" />
+          <e p="20191126190118_AdicionandoUsuarioConfiguration2.cs" t="Include" />
+          <e p="20191126190118_AdicionandoUsuarioConfiguration2.Designer.cs" t="Include" />
+          <e p="20191126192142_AdicionadoPostagem.cs" t="Include" />
+          <e p="20191126192142_AdicionadoPostagem.Designer.cs" t="Include" />
+          <e p="20191126192805_AdicionandoStatusRelacionamento.cs" t="Include" />
+          <e p="20191126192805_AdicionandoStatusRelacionamento.Designer.cs" t="Include" />
+          <e p="20191127141201_Identificacao.cs" t="Include" />
+          <e p="20191127141201_Identificacao.Designer.cs" t="Include" />
+          <e p="20191127142440_RelacionamentoPostagens.cs" t="Include" />
+          <e p="20191127142440_RelacionamentoPostagens.Designer.cs" t="Include" />
+          <e p="20191127145242_UsuarioGrupo.cs" t="Include" />
+          <e p="20191127145242_UsuarioGrupo.Designer.cs" t="Include" />
           <e p="SwitchContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
